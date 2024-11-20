@@ -15,7 +15,7 @@ This project is a clone of the Razorpay dashboard, designed as a web application
 
 ## Hosted Project Link
 
-[Razorpay Dashboard Clone](https://razorpay-dashboard-eta.vercel.app/)
+[Razorpay Dashboard Clone](https://razorpay-dashboard-xv.vercel.app/)
 
 
 ## Tech Stack
